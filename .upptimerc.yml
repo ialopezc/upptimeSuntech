@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: ialopezc # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 user-agent: ialopezc
 
@@ -8,6 +8,10 @@ sites:
     url: https://awsdev.imovit.net/
   - name: Monitor
     url: https://demo.imovit.net/
+  - name: webApp staging
+    url: https://awsdev.imovit.net/webApp/
+  - name: webApp
+    url: https://demo.imovit.net/webApp/
   - name: SIAD Staging
     url: https://siaddev.imovit.net/
   - name: SIAD
@@ -16,6 +20,8 @@ sites:
     url: https://awsdevcontrol.imovit.net/
   - name: CONTROL
     url: https://democontrol.imovit.net/
+  - name: webApp
+    url: https://demo.imovit.net/webApp/
 
 assignees: # Usuarios para asignar problemas de tiempo de inactividad
   - ialopezc
