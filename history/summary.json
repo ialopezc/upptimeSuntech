@@ -36,6 +36,42 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "webApp staging",
+    "url": "https://awsdev.imovit.net/webApp/",
+    "icon": "https://icons.duckduckgo.com/ip3/awsdev.imovit.net.ico",
+    "slug": "web-app-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 37,
+    "timeDay": 37,
+    "timeWeek": 37,
+    "timeMonth": 37,
+    "timeYear": 37,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "webApp",
+    "url": "https://demo.imovit.net/webApp/",
+    "icon": "https://icons.duckduckgo.com/ip3/demo.imovit.net.ico",
+    "slug": "web-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 42,
+    "timeDay": 42,
+    "timeWeek": 42,
+    "timeMonth": 42,
+    "timeYear": 42,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "SIAD Staging",
     "url": "https://siaddev.imovit.net/",
     "icon": "https://icons.duckduckgo.com/ip3/siaddev.imovit.net.ico",
@@ -105,6 +141,24 @@
     "timeWeek": 568,
     "timeMonth": 568,
     "timeYear": 568,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "webApp",
+    "url": "https://demo.imovit.net/webApp/",
+    "icon": "https://icons.duckduckgo.com/ip3/demo.imovit.net.ico",
+    "slug": "web-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 42,
+    "timeDay": 42,
+    "timeWeek": 42,
+    "timeMonth": 42,
+    "timeYear": 42,
     "dailyMinutesDown": {}
   }
 ]
