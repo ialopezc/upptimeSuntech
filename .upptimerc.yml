@@ -39,7 +39,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://ialopezc.github.io/upptimeSuntech/
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
