@@ -20,8 +20,6 @@ sites:
     url: https://awsdevcontrol.imovit.net/
   - name: CONTROL
     url: https://democontrol.imovit.net/
-  - name: webApp
-    url: https://demo.imovit.net/webApp/
 
 assignees: # Usuarios para asignar problemas de tiempo de inactividad
   - ialopezc
