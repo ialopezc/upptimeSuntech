@@ -12,8 +12,6 @@ sites:
     url: https://siad.imovit.net/
   - name: CONTROL
     url: https://democontrol.imovit.net/
-  - name: API APPs
-    url: $API_APPS
 
     
   - name: MONITOR staging
@@ -24,8 +22,6 @@ sites:
     url: https://siaddev.imovit.net/
   - name: CONTROL staging
     url: https://awsdevcontrol.imovit.net/
-  - name: API APPs staging
-    url: $API_APPS_STAGING
 
 assignees: # Usuarios para asignar problemas de tiempo de inactividad
   - ilopezSTI
