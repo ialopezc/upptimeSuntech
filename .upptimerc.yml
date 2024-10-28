@@ -14,7 +14,6 @@ sites:
     url: https://democontrol.imovit.net/
   - name: API APPs
     url: $API_APPS
-    hidden: true
 
     
   - name: MONITOR staging
@@ -27,7 +26,6 @@ sites:
     url: https://awsdevcontrol.imovit.net/
   - name: API APPs staging
     url: $API_APPS_STAGING
-    hidden: true
 
 assignees: # Usuarios para asignar problemas de tiempo de inactividad
   - ilopezSTI
