@@ -12,6 +12,8 @@ sites:
     url: https://siad.imovit.net/
   - name: CONTROL
     url: https://democontrol.imovit.net/
+  - name: API APPs
+    url: http://api-imovitnew-env.eba-d7mzkv25.us-east-1.elasticbeanstalk.com/
 
     
   - name: MONITOR staging
@@ -22,6 +24,8 @@ sites:
     url: https://siaddev.imovit.net/
   - name: CONTROL staging
     url: https://awsdevcontrol.imovit.net/
+  - name: API APPs staging
+    url: http://api-imovit-new-dev.us-east-1.elasticbeanstalk.com/
 
 assignees: # Usuarios para asignar problemas de tiempo de inactividad
   - ilopezSTI
