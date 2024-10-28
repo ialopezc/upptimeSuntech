@@ -1,7 +1,7 @@
-url: http://api-imovitnew-env.eba-d7mzkv25.us-east-1.elasticbeanstalk.com/
+url: $API_APPS
 status: up
 code: 200
-responseTime: 149
-lastUpdated: 2024-10-28T16:49:56.564Z
+responseTime: 175
+lastUpdated: 2024-10-28T17:02:48.841Z
 startTime: 2024-10-28T16:41:37.493Z
 generator: Upptime <https://github.com/upptime/upptime>
