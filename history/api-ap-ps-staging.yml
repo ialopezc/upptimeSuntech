@@ -1,7 +1,7 @@
-url: $API_APPS_STAGING
-status: up
-code: 200
-responseTime: 165
-lastUpdated: 2024-10-28T17:02:51.793Z
+url: ${{ secrets.API_APPS_STAGING }}
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-10-28T17:09:57.179Z
 startTime: 2024-10-28T16:41:39.538Z
 generator: Upptime <https://github.com/upptime/upptime>
