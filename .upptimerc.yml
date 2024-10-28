@@ -4,25 +4,27 @@ repo: upptime # The name of this repository
 user-agent: ialopezc
 
 sites:
-  - name: Monitor Staging
-    url: https://awsdev.imovit.net/
-  - name: Monitor
+  - name: MONITOR
     url: https://demo.imovit.net/
-  - name: webApp staging
-    url: https://awsdev.imovit.net/webApp/
-  - name: webApp
+  - name: WEBAPP
     url: https://demo.imovit.net/webApp/
-  - name: SIAD Staging
-    url: https://siaddev.imovit.net/
   - name: SIAD
     url: https://siad.imovit.net/
-  - name: CONTROL Staging
-    url: https://awsdevcontrol.imovit.net/
   - name: CONTROL
     url: https://democontrol.imovit.net/
 
+    
+  - name: MONITOR staging
+    url: https://awsdev.imovit.net/
+  - name: WEBAPP staging
+    url: https://awsdev.imovit.net/webApp/
+  - name: SIAD staging
+    url: https://siaddev.imovit.net/
+  - name: CONTROL staging
+    url: https://awsdevcontrol.imovit.net/
+
 assignees: # Usuarios para asignar problemas de tiempo de inactividad
-  - ialopezc
+  - ilopezSTI
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -30,7 +32,7 @@ status-website:
   cname: ialopezc.github.io
   baseUrl: /upptimeSuntech
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Upptime Suntech
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
