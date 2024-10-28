@@ -13,7 +13,7 @@ sites:
   - name: CONTROL
     url: https://democontrol.imovit.net/
   - name: API APPs
-    url: API_APPS
+    url: $API_APPS
     hidden: true
 
     
@@ -26,7 +26,7 @@ sites:
   - name: CONTROL staging
     url: https://awsdevcontrol.imovit.net/
   - name: API APPs staging
-    url: API_APPS_STAGING
+    url: $API_APPS_STAGING
     hidden: true
 
 assignees: # Usuarios para asignar problemas de tiempo de inactividad
