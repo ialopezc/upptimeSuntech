@@ -1,7 +1,7 @@
 url: https://demo.imovit.net/webApp/
-status: down
-code: 504
-responseTime: 10003
-lastUpdated: 2024-11-08T06:23:28.938Z
+status: up
+code: 200
+responseTime: 39
+lastUpdated: 2024-11-08T06:43:35.056Z
 startTime: 2024-10-28T15:51:16.104Z
 generator: Upptime <https://github.com/upptime/upptime>
