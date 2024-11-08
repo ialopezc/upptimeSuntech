@@ -4,19 +4,19 @@
     "url": "https://demo.imovit.net/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.imovit.net.ico",
     "slug": "monitor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 554,
-    "timeDay": 3555,
-    "timeWeek": 1201,
-    "timeMonth": 554,
-    "timeYear": 554,
+    "time": 802,
+    "timeDay": 5223,
+    "timeWeek": 1953,
+    "timeMonth": 802,
+    "timeYear": 802,
     "dailyMinutesDown": {
-      "2024-11-08": 21
+      "2024-11-08": 22
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.imovit.net.ico",
     "slug": "webapp",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.82%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 708,
     "timeDay": 5019,
     "timeWeek": 1723,
     "timeMonth": 708,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2024-11-08": 21
+      "2024-11-08": 27
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/siad.imovit.net.ico",
     "slug": "siad",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.80%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 570,
     "timeDay": 3566,
     "timeWeek": 1214,
     "timeMonth": 570,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2024-11-08": 32
+      "2024-11-08": 38
     }
   },
   {
