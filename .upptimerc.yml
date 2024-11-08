@@ -24,6 +24,8 @@ sites:
 
 assignees: # Usuarios para asignar problemas de tiempo de inactividad
   - ilopezSTI
+  - danielaCamacho53
+  - eduardomartinezsti
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
