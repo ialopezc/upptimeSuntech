@@ -25,10 +25,7 @@ sites:
   - name: SCUTI Dev
     url: http://scutidevelop.suntechlatam.com/
   - name: SCUTI Prod
-    url: https://www.suntechscuti.com/
-    skip-ssl: true 
-    check: "http"
-    expected-status-code: 200
+    url: www.suntechscuti.com/  
   - name: SCUTI Brasil
     url: https://scuti.suntechdobrasil.com.br/
     check: "http-ping"
