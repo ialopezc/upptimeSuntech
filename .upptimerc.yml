@@ -24,7 +24,7 @@ sites:
   
   - name: SCUTI Dev
     url: http://scutidevelop.suntechlatam.com/
-- name: SCUTI Prod
+  - name: SCUTI Prod
     url: https://www.suntechscuti.com/scuti/
     # check: "http-ping"
     # skip-ssl: true
