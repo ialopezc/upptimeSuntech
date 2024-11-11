@@ -21,6 +21,17 @@ sites:
     url: https://siaddev.imovit.net/
   - name: CONTROL staging
     url: https://awsdevcontrol.imovit.net/
+  
+  - name: SCUTI Dev
+    url: http://scutidevelop.suntechlatam.com/
+  - name: SCUTI Test
+    url: https://scutitest.suntechlatam.com/
+  - name: SCUTI Prod
+    url: https://www.suntechscuti.com/
+  - name: SCUTI Brasil
+    url: https://scuti.suntechdobrasil.com.br/
+
+    
 
 assignees: # Usuarios para asignar problemas de tiempo de inactividad
   - ilopezSTI
