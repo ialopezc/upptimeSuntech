@@ -28,8 +28,10 @@ sites:
     url: https://scutitest.suntechlatam.com/
   - name: SCUTI Prod
     url: https://www.suntechscuti.com/scuti/Login
+    skip-ssl: true
   - name: SCUTI Brasil
     url: https://scuti.suntechdobrasil.com.br/Login
+    skip-ssl: true
 
     
 
