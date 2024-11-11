@@ -22,10 +22,10 @@ sites:
   - name: CONTROL staging
     url: https://awsdevcontrol.imovit.net/
   
+  - name: SCUTI Prod
+    url: https://www.suntechscuti.com/scuti/
   - name: SCUTI Dev
     url: http://scutidevelop.suntechlatam.com/
-  - name: SCUTI Prod
-    url: www.suntechscuti.com/  
   - name: SCUTI Brasil
     url: https://scuti.suntechdobrasil.com.br/
     check: "http-ping"
