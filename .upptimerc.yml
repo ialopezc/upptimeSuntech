@@ -24,13 +24,6 @@ sites:
   
   - name: SCUTI Dev
     url: http://scutidevelop.suntechlatam.com/
-  - name: SCUTI Test
-    url: https://scutitest.suntechlatam.com/
-    check: "http-ping"
-    skip-ssl: true
-    headers:
-      User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    expected-status-code: 200
 - name: SCUTI Prod
     url: https://www.suntechscuti.com/scuti/
     check: "http-ping"
@@ -40,6 +33,13 @@ sites:
     expected-status-code: 200
   - name: SCUTI Brasil
     url: https://scuti.suntechdobrasil.com.br/
+    check: "http-ping"
+    skip-ssl: true
+    headers:
+      User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    expected-status-code: 200
+  - name: SCUTI Test
+    url: https://scutitest.suntechlatam.com/
     check: "http-ping"
     skip-ssl: true
     headers:
