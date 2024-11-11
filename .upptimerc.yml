@@ -26,6 +26,9 @@ sites:
     url: http://scutidevelop.suntechlatam.com/
   - name: SCUTI Prod
     url: https://www.suntechscuti.com/
+    check: "ping"  # O "ping" si prefieres otro tipo de chequeo
+    expected-status-code: 200
+
   - name: SCUTI Brasil
     url: https://scuti.suntechdobrasil.com.br/
     check: "http-ping"
