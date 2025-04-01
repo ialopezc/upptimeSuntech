@@ -26,6 +26,9 @@ sites:
     url: http://scutidevelop.suntechlatam.com/
   - name: SCUTI Prod
     url: https://www.suntechscuti.com/scuti/Login
+    check: "http-ping"
+    skip-ssl: true
+    expected-status-code: 200
   # - name: SCUTI Prod
   #   url: https://www.suntechscuti.com/scuti/
   #   check: "http-ping"
