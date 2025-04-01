@@ -15,17 +15,17 @@ sites:
 
   - name: MONITOR staging
     url: https://awsdev.imovit.net/
+    hidden: true
   - name: WEBAPP staging
     url: https://awsdev.imovit.net/webApp/
+    hidden: true
   - name: SIAD staging
     url: https://siaddev.imovit.net/
+    hidden: true
   - name: CONTROL staging
     url: https://awsdevcontrol.imovit.net/
-  
-  - name: SCUTI Dev
-    url: http://scutidevelop.suntechlatam.com/
-  - name: SCUTI Test
-    url: https://scutitest.suntechlatam.com/
+    hidden: true
+
   - name: SCUTI Prod
     url: https://www.suntechscuti.com/scuti/
     check: "http-ping"
@@ -43,9 +43,13 @@ sites:
   #       value: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     expected-status-code: 200
 
+  - name: SCUTI Dev
+    url: http://scutidevelop.suntechlatam.com/
+    hidden: true
+  - name: SCUTI Test
+    url: https://scutitest.suntechlatam.com/
+    hidden: true
 
-
-    
 
 assignees: # Usuarios para asignar problemas de tiempo de inactividad
   - ilopezSTI
