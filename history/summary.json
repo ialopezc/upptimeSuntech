@@ -4,11 +4,11 @@
     "url": "https://demo.imovit.net/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.imovit.net.ico",
     "slug": "monitor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 629,
     "timeDay": 452,
@@ -16,7 +16,7 @@
     "timeMonth": 350,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2025-05-13": 26,
+      "2025-05-13": 29,
       "2024-11-08": 152
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://demo.imovit.net/webApp/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.imovit.net.ico",
     "slug": "webapp",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.74%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.93%",
     "time": 394,
     "timeDay": 39,
     "timeWeek": 26,
     "timeMonth": 26,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2025-05-13": 26,
+      "2025-05-13": 28,
       "2024-11-08": 157
     }
   },
@@ -69,9 +69,9 @@
     "slug": "control",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 517,
     "timeDay": 1586,
@@ -79,7 +79,7 @@
     "timeMonth": 548,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2025-05-13": 20
+      "2025-05-13": 28
     }
   },
   {
@@ -87,10 +87,10 @@
     "url": "https://awsdev.imovit.net/",
     "icon": "https://icons.duckduckgo.com/ip3/awsdev.imovit.net.ico",
     "slug": "monitor-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 318,
@@ -99,7 +99,7 @@
     "timeMonth": 419,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2025-05-13": 17
+      "2025-05-13": 18
     }
   },
   {
@@ -128,18 +128,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/siaddev.imovit.net.ico",
     "slug": "siad-staging",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 321,
     "timeDay": 369,
     "timeWeek": 337,
     "timeMonth": 291,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2025-05-13": 7
+      "2025-05-13": 16
     }
   },
   {
@@ -149,9 +149,9 @@
     "slug": "control-staging",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 507,
     "timeDay": 1089,
@@ -159,7 +159,7 @@
     "timeMonth": 502,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2025-05-13": 1
+      "2025-05-13": 9
     }
   },
   {
@@ -187,19 +187,19 @@
     "url": "https://scuti.suntechdobrasil.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/scuti.suntechdobrasil.com.br.ico",
     "slug": "scuti-brasil",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "92.69%",
-    "uptimeWeek": "87.57%",
-    "uptimeMonth": "97.14%",
+    "uptimeDay": "92.10%",
+    "uptimeWeek": "87.48%",
+    "uptimeMonth": "97.12%",
     "uptimeYear": "99.52%",
-    "time": 3611,
-    "timeDay": 3177,
-    "timeWeek": 3685,
-    "timeMonth": 3611,
-    "timeYear": 3611,
+    "time": 3606,
+    "timeDay": 3045,
+    "timeWeek": 3669,
+    "timeMonth": 3606,
+    "timeYear": 3606,
     "dailyMinutesDown": {
-      "2025-05-13": 83,
+      "2025-05-13": 92,
       "2025-05-12": 185,
       "2025-05-11": 272,
       "2025-05-10": 193,
