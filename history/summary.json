@@ -4,11 +4,11 @@
     "url": "https://demo.imovit.net/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.imovit.net.ico",
     "slug": "monitor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.95%",
     "time": 632,
     "timeDay": 547,
@@ -16,6 +16,7 @@
     "timeMonth": 350,
     "timeYear": 632,
     "dailyMinutesDown": {
+      "2025-05-13": 3,
       "2024-11-08": 152
     }
   },
@@ -24,11 +25,11 @@
     "url": "https://demo.imovit.net/webApp/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.imovit.net.ico",
     "slug": "webapp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
     "time": 399,
     "timeDay": 68,
@@ -36,6 +37,7 @@
     "timeMonth": 27,
     "timeYear": 399,
     "dailyMinutesDown": {
+      "2025-05-13": 2,
       "2024-11-08": 157
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://siad.imovit.net/",
     "icon": "https://icons.duckduckgo.com/ip3/siad.imovit.net.ico",
     "slug": "siad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 422,
@@ -56,6 +58,7 @@
     "timeMonth": 322,
     "timeYear": 422,
     "dailyMinutesDown": {
+      "2025-05-13": 2,
       "2024-11-08": 170
     }
   },
@@ -64,10 +67,10 @@
     "url": "https://democontrol.imovit.net/",
     "icon": "https://icons.duckduckgo.com/ip3/democontrol.imovit.net.ico",
     "slug": "control",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 499,
@@ -75,17 +78,19 @@
     "timeWeek": 555,
     "timeMonth": 494,
     "timeYear": 499,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-13": 1
+    }
   },
   {
     "name": "MONITOR staging",
     "url": "https://awsdev.imovit.net/",
     "icon": "https://icons.duckduckgo.com/ip3/awsdev.imovit.net.ico",
     "slug": "monitor-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
@@ -93,7 +98,9 @@
     "timeWeek": 404,
     "timeMonth": 336,
     "timeYear": 287,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-13": 1
+    }
   },
   {
     "name": "WEBAPP staging",
@@ -176,13 +183,13 @@
     "slug": "scuti-brasil",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "88.74%",
+    "uptimeDay": "91.93%",
     "uptimeWeek": "87.32%",
     "uptimeMonth": "97.08%",
     "uptimeYear": "99.51%",
     "time": 3611,
-    "timeDay": 2602,
-    "timeWeek": 3649,
+    "timeDay": 2947,
+    "timeWeek": 3664,
     "timeMonth": 3611,
     "timeYear": 3611,
     "dailyMinutesDown": {
@@ -201,11 +208,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/scutidevelop.suntechlatam.com.ico",
     "slug": "scuti-dev",
     "status": "up",
-    "uptime": "68.87%",
+    "uptime": "68.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.87%",
+    "uptimeYear": "68.89%",
     "time": 278,
     "timeDay": 580,
     "timeWeek": 358,
