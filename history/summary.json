@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.imovit.net.ico",
     "slug": "monitor",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.94%",
     "time": 632,
     "timeDay": 547,
     "timeWeek": 374,
     "timeMonth": 350,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2025-05-13": 3,
+      "2025-05-13": 12,
       "2024-11-08": 152
     }
   },
@@ -27,9 +27,9 @@
     "slug": "webapp",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.94%",
     "time": 399,
     "timeDay": 68,
@@ -37,7 +37,7 @@
     "timeMonth": 27,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2025-05-13": 2,
+      "2025-05-13": 12,
       "2024-11-08": 157
     }
   },
@@ -48,9 +48,9 @@
     "slug": "siad",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.94%",
     "time": 422,
     "timeDay": 524,
@@ -58,7 +58,7 @@
     "timeMonth": 322,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2025-05-13": 2,
+      "2025-05-13": 11,
       "2024-11-08": 170
     }
   },
@@ -69,9 +69,9 @@
     "slug": "control",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 499,
     "timeDay": 1023,
@@ -79,7 +79,7 @@
     "timeMonth": 494,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2025-05-13": 1
+      "2025-05-13": 11
     }
   },
   {
@@ -87,19 +87,19 @@
     "url": "https://awsdev.imovit.net/",
     "icon": "https://icons.duckduckgo.com/ip3/awsdev.imovit.net.ico",
     "slug": "monitor-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 598,
-    "timeWeek": 404,
-    "timeMonth": 336,
-    "timeYear": 287,
+    "time": 319,
+    "timeDay": 1857,
+    "timeWeek": 743,
+    "timeMonth": 425,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2025-05-13": 1
+      "2025-05-13": 10
     }
   },
   {
@@ -189,7 +189,7 @@
     "uptimeYear": "99.51%",
     "time": 3611,
     "timeDay": 2947,
-    "timeWeek": 3664,
+    "timeWeek": 3691,
     "timeMonth": 3611,
     "timeYear": 3611,
     "dailyMinutesDown": {
