@@ -189,15 +189,15 @@
     "slug": "scuti-brasil",
     "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "76.68%",
-    "uptimeWeek": "86.86%",
-    "uptimeMonth": "96.98%",
+    "uptimeDay": "77.25%",
+    "uptimeWeek": "86.91%",
+    "uptimeMonth": "96.99%",
     "uptimeYear": "99.51%",
-    "time": 3591,
-    "timeDay": 3889,
-    "timeWeek": 3501,
-    "timeMonth": 3591,
-    "timeYear": 3591,
+    "time": 3590,
+    "timeDay": 3895,
+    "timeWeek": 3497,
+    "timeMonth": 3590,
+    "timeYear": 3590,
     "dailyMinutesDown": {
       "2025-05-16": 317,
       "2025-05-15": 149,
@@ -205,7 +205,7 @@
       "2025-05-13": 174,
       "2025-05-12": 185,
       "2025-05-11": 272,
-      "2025-05-10": 35
+      "2025-05-10": 29
     }
   },
   {
