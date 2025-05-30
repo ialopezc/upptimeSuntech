@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 580,
-    "timeDay": 215,
-    "timeWeek": 248,
-    "timeMonth": 334,
-    "timeYear": 580,
+    "time": 578,
+    "timeDay": 259,
+    "timeWeek": 238,
+    "timeMonth": 331,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2025-05-13": 38,
       "2024-11-08": 152
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 330,
-    "timeDay": 6,
-    "timeWeek": 16,
-    "timeMonth": 24,
-    "timeYear": 330,
+    "time": 327,
+    "timeDay": 20,
+    "timeWeek": 13,
+    "timeMonth": 25,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2025-05-13": 37,
       "2024-11-08": 157
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
-    "time": 430,
-    "timeDay": 207,
-    "timeWeek": 257,
-    "timeMonth": 399,
-    "timeYear": 430,
+    "time": 426,
+    "timeDay": 183,
+    "timeWeek": 236,
+    "timeMonth": 398,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2025-05-13": 18,
       "2024-11-08": 170
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 513,
-    "timeDay": 166,
-    "timeWeek": 368,
+    "time": 512,
+    "timeDay": 359,
+    "timeWeek": 329,
     "timeMonth": 535,
-    "timeYear": 513,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2025-05-13": 37
     }
@@ -94,9 +94,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 329,
-    "timeDay": 123,
-    "timeWeek": 220,
-    "timeMonth": 446,
+    "timeDay": 301,
+    "timeWeek": 216,
+    "timeMonth": 448,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2025-05-13": 22
@@ -114,8 +114,8 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 43,
-    "timeDay": 5,
-    "timeWeek": 18,
+    "timeDay": 24,
+    "timeWeek": 16,
     "timeMonth": 28,
     "timeYear": 43,
     "dailyMinutesDown": {
@@ -133,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 316,
-    "timeDay": 127,
-    "timeWeek": 193,
-    "timeMonth": 292,
-    "timeYear": 316,
+    "time": 314,
+    "timeDay": 176,
+    "timeWeek": 180,
+    "timeMonth": 291,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2025-05-13": 24
     }
@@ -154,9 +154,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 504,
-    "timeDay": 245,
-    "timeWeek": 331,
-    "timeMonth": 491,
+    "timeDay": 470,
+    "timeWeek": 319,
+    "timeMonth": 498,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2025-05-13": 18
@@ -173,11 +173,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1206,
-    "timeDay": 995,
-    "timeWeek": 1053,
-    "timeMonth": 1206,
-    "timeYear": 1206,
+    "time": 1202,
+    "timeDay": 1117,
+    "timeWeek": 1034,
+    "timeMonth": 1202,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2024-11-11": 23
     }
@@ -187,16 +187,16 @@
     "url": "https://scuti.suntechdobrasil.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/scuti.suntechdobrasil.com.br.ico",
     "slug": "scuti-brasil",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "90.99%",
-    "uptimeWeek": "87.82%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "99.57%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "91.37%",
+    "uptimeWeek": "87.88%",
+    "uptimeMonth": "97.21%",
+    "uptimeYear": "99.58%",
     "time": 3531,
-    "timeDay": 3329,
-    "timeWeek": 3412,
-    "timeMonth": 3550,
+    "timeDay": 3353,
+    "timeWeek": 3435,
+    "timeMonth": 3549,
     "timeYear": 3531,
     "dailyMinutesDown": {
       "2025-05-30": 125,
@@ -205,7 +205,7 @@
       "2025-05-27": 205,
       "2025-05-26": 194,
       "2025-05-25": 228,
-      "2025-05-24": 134
+      "2025-05-24": 128
     }
   },
   {
@@ -219,11 +219,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "71.63%",
-    "time": 288,
-    "timeDay": 238,
-    "timeWeek": 263,
-    "timeMonth": 308,
-    "timeYear": 288,
+    "time": 287,
+    "timeDay": 236,
+    "timeWeek": 228,
+    "timeMonth": 311,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2025-02-13": 1035,
       "2025-02-12": 1440,
@@ -296,11 +296,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 195,
-    "timeWeek": 265,
-    "timeMonth": 347,
-    "timeYear": 328,
+    "time": 327,
+    "timeDay": 254,
+    "timeWeek": 233,
+    "timeMonth": 348,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   }
 ]
