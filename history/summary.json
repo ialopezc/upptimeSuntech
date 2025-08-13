@@ -132,17 +132,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/siaddev.imovit.net.ico",
     "slug": "siad-staging",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 308,
     "timeDay": 473,
     "timeWeek": 309,
     "timeMonth": 300,
     "timeYear": 308,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-30": 6,
+      "2025-05-13": 24
+    }
   },
   {
     "name": "CONTROL staging",
@@ -171,37 +174,41 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.suntechscuti.com.ico",
     "slug": "scuti-prod",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1318,
     "timeDay": 1617,
     "timeWeek": 1439,
     "timeMonth": 1342,
     "timeYear": 1318,
-    "dailyMinutesDown": {
-      "2024-11-11": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCUTI Brasil",
     "url": "https://scuti.suntechdobrasil.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/scuti.suntechdobrasil.com.br.ico",
     "slug": "scuti-brasil",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3621,
-    "timeDay": 3321,
-    "timeWeek": 3739,
-    "timeMonth": 3843,
-    "timeYear": 3621,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "71.46%",
+    "uptimeWeek": "83.32%",
+    "uptimeMonth": "96.16%",
+    "uptimeYear": "99.58%",
+    "time": 3619,
+    "timeDay": 3194,
+    "timeWeek": 3719,
+    "timeMonth": 3837,
+    "timeYear": 3619,
+    "dailyMinutesDown": {
+      "2025-08-13": 328,
+      "2025-08-12": 300,
+      "2025-08-11": 424,
+      "2025-08-10": 550,
+      "2025-08-09": 83
+    }
   },
   {
     "name": "SCUTI Dev",
