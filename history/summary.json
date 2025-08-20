@@ -132,20 +132,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/siaddev.imovit.net.ico",
     "slug": "siad-staging",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 310,
     "timeDay": 198,
     "timeWeek": 376,
     "timeMonth": 331,
     "timeYear": 310,
-    "dailyMinutesDown": {
-      "2025-06-30": 6,
-      "2025-05-13": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CONTROL staging",
@@ -193,23 +190,23 @@
     "url": "https://scuti.suntechdobrasil.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/scuti.suntechdobrasil.com.br.ico",
     "slug": "scuti-brasil",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "74.39%",
-    "uptimeWeek": "83.18%",
-    "uptimeMonth": "96.13%",
-    "uptimeYear": "99.58%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "74.37%",
+    "uptimeWeek": "83.36%",
+    "uptimeMonth": "96.17%",
+    "uptimeYear": "99.59%",
     "time": 3627,
     "timeDay": 3113,
-    "timeWeek": 3693,
-    "timeMonth": 3748,
+    "timeWeek": 3712,
+    "timeMonth": 3745,
     "timeYear": 3627,
     "dailyMinutesDown": {
       "2025-08-20": 273,
       "2025-08-19": 356,
       "2025-08-18": 326,
       "2025-08-17": 588,
-      "2025-08-16": 153
+      "2025-08-16": 135
     }
   },
   {
