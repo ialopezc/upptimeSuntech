@@ -12,8 +12,8 @@
     "uptimeYear": "99.96%",
     "time": 488,
     "timeDay": 0,
-    "timeWeek": 386,
-    "timeMonth": 423,
+    "timeWeek": 393,
+    "timeMonth": 420,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2025-05-13": 38,
@@ -33,7 +33,7 @@
     "uptimeYear": "99.96%",
     "time": 190,
     "timeDay": 0,
-    "timeWeek": 34,
+    "timeWeek": 38,
     "timeMonth": 39,
     "timeYear": 190,
     "dailyMinutesDown": {
@@ -54,8 +54,8 @@
     "uptimeYear": "99.96%",
     "time": 385,
     "timeDay": 0,
-    "timeWeek": 351,
-    "timeMonth": 362,
+    "timeWeek": 361,
+    "timeMonth": 361,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2025-06-30": 7,
@@ -76,8 +76,8 @@
     "uptimeYear": "99.99%",
     "time": 533,
     "timeDay": 0,
-    "timeWeek": 550,
-    "timeMonth": 623,
+    "timeWeek": 583,
+    "timeMonth": 621,
     "timeYear": 533,
     "dailyMinutesDown": {
       "2025-06-30": 7,
@@ -97,8 +97,8 @@
     "uptimeYear": "99.99%",
     "time": 352,
     "timeDay": 0,
-    "timeWeek": 398,
-    "timeMonth": 425,
+    "timeWeek": 420,
+    "timeMonth": 424,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2025-06-30": 6,
@@ -118,7 +118,7 @@
     "uptimeYear": "100.00%",
     "time": 39,
     "timeDay": 0,
-    "timeWeek": 33,
+    "timeWeek": 38,
     "timeMonth": 38,
     "timeYear": 39,
     "dailyMinutesDown": {
@@ -139,8 +139,8 @@
     "uptimeYear": "99.99%",
     "time": 311,
     "timeDay": 0,
-    "timeWeek": 308,
-    "timeMonth": 334,
+    "timeWeek": 316,
+    "timeMonth": 333,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2025-06-30": 6,
@@ -160,8 +160,8 @@
     "uptimeYear": "99.99%",
     "time": 554,
     "timeDay": 0,
-    "timeWeek": 1241,
-    "timeMonth": 769,
+    "timeWeek": 1404,
+    "timeMonth": 775,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2025-06-30": 5,
@@ -181,8 +181,8 @@
     "uptimeYear": "99.99%",
     "time": 1346,
     "timeDay": 0,
-    "timeWeek": 1434,
-    "timeMonth": 1484,
+    "timeWeek": 1455,
+    "timeMonth": 1481,
     "timeYear": 1346,
     "dailyMinutesDown": {
       "2024-11-11": 23
@@ -193,22 +193,22 @@
     "url": "https://scuti.suntechdobrasil.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/scuti.suntechdobrasil.com.br.ico",
     "slug": "scuti-brasil",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "66.21%",
-    "uptimeWeek": "86.77%",
-    "uptimeMonth": "96.95%",
-    "uptimeYear": "99.68%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "67.19%",
+    "uptimeWeek": "86.83%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "99.69%",
     "time": 3648,
-    "timeDay": 3888,
-    "timeWeek": 3950,
-    "timeMonth": 3798,
+    "timeDay": 3900,
+    "timeWeek": 3972,
+    "timeMonth": 3794,
     "timeYear": 3648,
     "dailyMinutesDown": {
       "2025-08-31": 469,
       "2025-08-30": 389,
       "2025-08-29": 304,
-      "2025-08-28": 176
+      "2025-08-28": 170
     }
   },
   {
@@ -224,8 +224,8 @@
     "uptimeYear": "80.62%",
     "time": 406,
     "timeDay": 0,
-    "timeWeek": 378,
-    "timeMonth": 425,
+    "timeWeek": 406,
+    "timeMonth": 424,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2025-07-21": 14,
@@ -303,7 +303,7 @@
     "uptimeYear": "100.00%",
     "time": 373,
     "timeDay": 0,
-    "timeWeek": 379,
+    "timeWeek": 412,
     "timeMonth": 439,
     "timeYear": 373,
     "dailyMinutesDown": {
