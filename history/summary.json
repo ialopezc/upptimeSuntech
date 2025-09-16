@@ -26,20 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.imovit.net.ico",
     "slug": "webapp",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 8,
     "timeWeek": 18,
     "timeMonth": 31,
     "timeYear": 178,
-    "dailyMinutesDown": {
-      "2025-05-13": 37,
-      "2024-11-08": 157
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SIAD",
@@ -47,21 +44,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/siad.imovit.net.ico",
     "slug": "siad",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 378,
     "timeDay": 178,
     "timeWeek": 262,
     "timeMonth": 329,
     "timeYear": 378,
-    "dailyMinutesDown": {
-      "2025-06-30": 7,
-      "2025-05-13": 18,
-      "2024-11-08": 170
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CONTROL",
@@ -69,20 +62,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/democontrol.imovit.net.ico",
     "slug": "control",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 527,
     "timeDay": 278,
     "timeWeek": 388,
     "timeMonth": 533,
     "timeYear": 527,
-    "dailyMinutesDown": {
-      "2025-06-30": 7,
-      "2025-05-13": 37
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MONITOR staging",
@@ -190,19 +180,19 @@
     "url": "https://scuti.suntechdobrasil.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/scuti.suntechdobrasil.com.br.ico",
     "slug": "scuti-brasil",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "81.73%",
-    "uptimeWeek": "88.11%",
-    "uptimeMonth": "97.26%",
+    "uptimeDay": "81.30%",
+    "uptimeWeek": "88.05%",
+    "uptimeMonth": "97.25%",
     "uptimeYear": "99.73%",
     "time": 3655,
-    "timeDay": 3039,
-    "timeWeek": 3428,
-    "timeMonth": 3736,
+    "timeDay": 3143,
+    "timeWeek": 3441,
+    "timeMonth": 3738,
     "timeYear": 3655,
     "dailyMinutesDown": {
-      "2025-09-16": 169,
+      "2025-09-16": 176,
       "2025-09-15": 334,
       "2025-09-14": 357,
       "2025-09-13": 339
