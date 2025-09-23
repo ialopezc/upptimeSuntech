@@ -193,11 +193,11 @@
     "url": "https://scuti.suntechdobrasil.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/scuti.suntechdobrasil.com.br.ico",
     "slug": "scuti-brasil",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "83.03%",
-    "uptimeWeek": "88.95%",
-    "uptimeMonth": "97.46%",
+    "uptimeDay": "83.01%",
+    "uptimeWeek": "89.03%",
+    "uptimeMonth": "97.48%",
     "uptimeYear": "99.76%",
     "time": 3665,
     "timeDay": 3764,
@@ -208,7 +208,7 @@
       "2025-09-23": 225,
       "2025-09-22": 322,
       "2025-09-21": 316,
-      "2025-09-20": 255
+      "2025-09-20": 246
     }
   },
   {
