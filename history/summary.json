@@ -152,9 +152,9 @@
     "url": "https://awsdevcontrol.imovit.net/",
     "icon": "https://icons.duckduckgo.com/ip3/awsdevcontrol.imovit.net.ico",
     "slug": "control-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -164,6 +164,7 @@
     "timeMonth": 543,
     "timeYear": 547,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-06-30": 5,
       "2025-05-13": 18
     }
@@ -203,7 +204,7 @@
     "time": 3665,
     "timeDay": 1164,
     "timeWeek": 3190,
-    "timeMonth": 3785,
+    "timeMonth": 3778,
     "timeYear": 3665,
     "dailyMinutesDown": {
       "2025-10-17": 26,
