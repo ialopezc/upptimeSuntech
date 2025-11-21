@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/awsdevcontrol.imovit.net.ico",
     "slug": "control-staging",
     "status": "down",
-    "uptime": "91.67%",
+    "uptime": "91.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "91.06%",
+    "uptimeYear": "91.03%",
     "time": 550,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 952,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2025-11-21": 1133,
+      "2025-11-21": 1304,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -224,9 +224,9 @@
     "url": "https://scuti.suntechdobrasil.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/scuti.suntechdobrasil.com.br.ico",
     "slug": "scuti-brasil",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "98.35%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "98.33%",
     "uptimeWeek": "95.93%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.78%",
@@ -270,7 +270,7 @@
       "2025-10-13": 34,
       "2025-10-12": 9,
       "2025-10-11": 76,
-      "2025-10-10": 30
+      "2025-10-10": 22
     }
   },
   {
