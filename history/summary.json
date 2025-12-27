@@ -154,7 +154,7 @@
     "uptime": "89.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.37%",
+    "uptimeMonth": "82.42%",
     "uptimeYear": "88.16%",
     "time": 549,
     "timeDay": 518,
@@ -238,9 +238,9 @@
     "slug": "scuti-brasil",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.82%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.77%",
     "uptimeYear": "99.76%",
     "time": 3685,
     "timeDay": 9140,
@@ -248,7 +248,8 @@
     "timeMonth": 4476,
     "timeYear": 3685,
     "dailyMinutesDown": {
-      "2025-12-26": 0,
+      "2025-12-27": 21,
+      "2025-12-26": 1,
       "2025-12-25": 23,
       "2025-12-23": 13,
       "2025-12-22": 13,
@@ -305,7 +306,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "86.64%",
+    "uptimeYear": "86.65%",
     "time": 401,
     "timeDay": 450,
     "timeWeek": 402,
@@ -363,8 +364,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
