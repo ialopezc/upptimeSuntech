@@ -90,9 +90,9 @@
     "url": "https://awsdev.imovit.net/",
     "icon": "https://icons.duckduckgo.com/ip3/awsdev.imovit.net.ico",
     "slug": "monitor-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -102,6 +102,7 @@
     "timeMonth": 519,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2025-12-30": 21,
       "2025-06-30": 6,
       "2025-05-13": 22
@@ -315,7 +316,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.96%",
+    "uptimeYear": "95.97%",
     "time": 399,
     "timeDay": 212,
     "timeWeek": 435,
