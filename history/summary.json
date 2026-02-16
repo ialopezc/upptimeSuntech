@@ -158,7 +158,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/awsdevcontrol.imovit.net.ico",
     "slug": "control-staging",
     "status": "up",
-    "uptime": "90.96%",
+    "uptime": "90.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -244,12 +244,12 @@
     "url": "https://scuti.suntechdobrasil.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/scuti.suntechdobrasil.com.br.ico",
     "slug": "scuti-brasil",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "95.93%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "95.90%",
     "uptimeWeek": "98.74%",
     "uptimeMonth": "98.95%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.71%",
     "time": 3689,
     "timeDay": 1399,
     "timeWeek": 3035,
@@ -307,7 +307,7 @@
       "2025-12-06": 6,
       "2025-12-05": 32,
       "2025-12-04": 8,
-      "2025-12-03": 47
+      "2025-12-03": 13
     }
   },
   {
@@ -316,7 +316,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/scutidevelop.suntechlatam.com.ico",
     "slug": "scuti-dev",
     "status": "up",
-    "uptime": "87.68%",
+    "uptime": "87.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
