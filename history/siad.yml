@@ -1,7 +1,7 @@
 url: https://siad.imovit.net/
-status: up
-code: 200
-responseTime: 448
-lastUpdated: 2026-03-03T23:03:52.960Z
+status: down
+code: 500
+responseTime: 10228
+lastUpdated: 2026-03-04T22:28:31.331Z
 startTime: 2024-10-25T23:42:57.331Z
 generator: Upptime <https://github.com/upptime/upptime>
