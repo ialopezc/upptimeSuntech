@@ -8,7 +8,7 @@
     "uptime": "96.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.12%",
+    "uptimeMonth": "88.64%",
     "uptimeYear": "95.54%",
     "time": 498,
     "timeDay": 456,
@@ -48,7 +48,7 @@
     "uptime": "96.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.12%",
+    "uptimeMonth": "88.64%",
     "uptimeYear": "95.54%",
     "time": 146,
     "timeDay": 67,
@@ -313,9 +313,9 @@
     "url": "https://scuti.suntechdobrasil.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/scuti.suntechdobrasil.com.br.ico",
     "slug": "scuti-brasil",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "99.63%",
@@ -325,6 +325,7 @@
     "timeMonth": 3635,
     "timeYear": 3696,
     "dailyMinutesDown": {
+      "2026-04-02": 0,
       "2026-03-28": 37,
       "2026-03-25": 45,
       "2026-03-23": 38,
@@ -379,8 +380,7 @@
       "2026-01-10": 33,
       "2026-01-08": 72,
       "2026-01-07": 192,
-      "2026-01-04": 21,
-      "2026-01-01": 8
+      "2026-01-04": 21
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/scutidevelop.suntechlatam.com.ico",
     "slug": "scuti-dev",
     "status": "up",
-    "uptime": "88.77%",
+    "uptime": "88.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
