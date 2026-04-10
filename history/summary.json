@@ -131,7 +131,7 @@
     "uptime": "97.81%",
     "uptimeDay": "98.70%",
     "uptimeWeek": "99.54%",
-    "uptimeMonth": "73.98%",
+    "uptimeMonth": "74.14%",
     "uptimeYear": "96.82%",
     "time": 398,
     "timeDay": 454,
@@ -168,7 +168,7 @@
     "uptime": "96.52%",
     "uptimeDay": "98.70%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "49.59%",
+    "uptimeMonth": "49.75%",
     "uptimeYear": "94.96%",
     "time": 54,
     "timeDay": 70,
@@ -205,9 +205,9 @@
     "url": "https://siaddev.imovit.net/",
     "icon": "https://icons.duckduckgo.com/ip3/siaddev.imovit.net.ico",
     "slug": "siad-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -217,6 +217,7 @@
     "timeMonth": 352,
     "timeYear": 311,
     "dailyMinutesDown": {
+      "2026-04-10": 0,
       "2025-06-30": 6,
       "2025-05-13": 24
     }
