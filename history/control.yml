@@ -1,7 +1,7 @@
 url: https://democontrol.imovit.net/
-status: up
-code: 200
-responseTime: 431
-lastUpdated: 2026-04-20T23:14:26.320Z
+status: down
+code: 500
+responseTime: 278
+lastUpdated: 2026-04-21T16:22:27.249Z
 startTime: 2024-10-25T23:42:58.304Z
 generator: Upptime <https://github.com/upptime/upptime>
