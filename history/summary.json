@@ -223,7 +223,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/awsdevcontrol.imovit.net.ico",
     "slug": "control-staging",
     "status": "up",
-    "uptime": "92.62%",
+    "uptime": "92.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -322,7 +322,7 @@
     "timeDay": 842,
     "timeWeek": 4131,
     "timeMonth": 4095,
-    "timeYear": 3750,
+    "timeYear": 3751,
     "dailyMinutesDown": {
       "2026-06-04": 14,
       "2026-06-03": 25,
